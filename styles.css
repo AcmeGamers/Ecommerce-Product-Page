@@ -7,15 +7,6 @@
   --primary-light: #c3c4ef;
   --secondary-light: #ffb8bb;
 
-  --primary-light-filter: invert(76%) sepia(24%) saturate(338%)
-    hue-rotate(201deg) brightness(103%) contrast(87%);
-  --secondary-light-filter: invert(77%) sepia(8%) saturate(1260%)
-    hue-rotate(309deg) brightness(101%) contrast(101%);
-
-  --dark-blue: #324152;
-  --grayish-blue: #67727e;
-  --light-gray: #eaecf1;
-
   --p-font: 16px;
   --font-family: "Rubik", sans-serif;
   /* Weights: 400, 500, 700 */
